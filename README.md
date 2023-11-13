@@ -5,6 +5,8 @@ I have never created shit on GitHub or saved modding in general so this is a fir
 
 
 # How to Use:
+Download Latest Release (Should be on the left of github.com)
+
 Go to C:\Program Files (x86)\Steam\userdata\ (random numbers (logged in steam accounts)) \1337520\remote\
 
 Place Main.py and Run in here (Alternatily you can copy main.py and save.json and use it somewhere else)
