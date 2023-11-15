@@ -1,5 +1,5 @@
-# RoRR-Save-Editor
-Python script to edit save files of Risk of Rain returns to unlock characters, achievements, etc.
+# Risk of Rain Returns-Save-Editor
+Python script to edit save files of Risk of Rain returns to unlock characters, achievements, etc. ( Just Characters for now)
 
 I have never created shit on GitHub or saved modding in general so this is a first-time project, so sorry if it's trash.
 
