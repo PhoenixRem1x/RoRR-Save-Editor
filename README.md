@@ -29,3 +29,8 @@ upload your save.json to the files
 Finally hit Run!
 
 Then copy and paste the save.json back to your system
+
+
+
+#  🚨 Make a Copy of your save.json in case it breaks 🚨
+if it breaks you gotta restart all your progress so don't be dumb
