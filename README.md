@@ -15,14 +15,11 @@ Run and make your edit selections
 
 Start the game and it should unlock what ever you selected
 
-#  🚨 Make a Copy of your save.json in case it breaks 🚨
-if it breaks you gotta restart all your progress so don't be dumb
 
 
 
 
-
-# Option 2:
+# Option 2
 If you do not want to run code on your system, or don't have python;
 Go to Repl.it
 Create an Account
