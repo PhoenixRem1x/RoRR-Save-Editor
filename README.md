@@ -17,3 +17,18 @@ Start the game and it should unlock what ever you selected
 
 #  🚨 Make a Copy of your save.json in case it breaks 🚨
 if it breaks you gotta restart all your progress so don't be dumb
+
+
+
+
+
+#Option 2:
+If you do not want to run code on your system, or don't have python;
+Go to Repl.it
+Create an Account
+Create a project ( Make sure to select python )
+Copy & Paste Code into the project
+upload your save.json to the files
+Finally hit Run!
+
+Then copy and paste the save.json back to your system
