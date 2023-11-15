@@ -22,23 +22,19 @@ Start the game and it should unlock what ever you selected
 # Option 2
 If you do not want to run code on your system, or don't have python
 
-Go to Repl.it
+Go to Repl.it, 
 
-Create an Account
+Create an Account, 
 
-Create a project ( Make sure to select python )
+Create a project ( Make sure to select python ), 
 
-Copy & Paste Code into the project
+Copy & Paste Code into the project, 
 
-upload your save.json to the files
+upload your save.json to the files, 
 
-Finally hit Run!
+Finally hit Run!, 
 
-Then copy and paste the save.json back to your system
-
-
-
-
+Then copy and paste the save.json back to your system, 
 
 
 
