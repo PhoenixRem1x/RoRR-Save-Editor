@@ -1,8 +1,6 @@
 # Risk of Rain Returns Save-Editor
 Python script to edit save files of Risk of Rain returns to unlock characters, achievements, etc. ( Just Characters for now)
 
-I have never created shit on GitHub or saved modding in general so this is a first-time project, so sorry if it's trash.
-
 
 # How to Use:
 Download Latest Release (Should be on the left of github.com)
@@ -13,7 +11,7 @@ Place Main.py and Run in here (Alternatily you can copy main.py and save.json an
 
 Run and make your edit selections
 
-Start the game and it should unlock what ever you selected
+Start the game and it should unlock whatever you selected
 
 
 
