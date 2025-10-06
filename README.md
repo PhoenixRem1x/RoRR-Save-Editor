@@ -7,24 +7,24 @@ Download Latest Release (Should be on the left of github.com)
 
 Go to C:\Program Files (x86)\Steam\userdata\ (random numbers (logged in steam accounts)) \1337520\remote\
 
-Place Main.py and Run in here (Alternatily you can copy main.py and save.json and use it somewhere else)
+Place Main.py and Run in here (Alternatively, you can copy main.py and save.json and use it somewhere else)
 
 Run and make your edit selections
 
-Start the game and it should unlock whatever you selected
+Start the game, and it should unlock whatever you selected
 
 
 
 
 
 # Option 2
-If you do not want to run code on your system, or don't have python
+If you do not want to run code on your system, or don't have Python
 
 Go to Repl.it, 
 
 Create an Account, 
 
-Create a project ( Make sure to select python ), 
+Create a project ( Make sure to select Python), 
 
 Copy & Paste Code into the project, 
 
@@ -37,4 +37,4 @@ Then copy and paste the save.json back to your system,
 
 
 #  🚨 Make a Copy of your save.json in case it breaks 🚨
-if it breaks you gotta restart all your progress so don't be dumb
+If it breaks, you gotta restart all your progress, so don't be silly
